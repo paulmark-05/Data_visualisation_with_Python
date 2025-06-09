@@ -1,4 +1,4 @@
-# WRICEF Analytics Dashboard - Student Project
+# Data Analytics Dashboard
 
 A beginner-friendly data visualization project for analyzing SAP implementation tracking data. Perfect for learning data analysis and dashboard development with Python.
 
